@@ -1,0 +1,30 @@
+	
+	             J3Connector License 
+---------------------------------------------------------------------------------------
+J3Connector (J3cnn.dll, J3cnn_c.dll, J3cnn_mc.dll) is a free Activex DLL and binaries  
+are distributed for personal, educational or commercial use. The author makes no  
+warranty or representation, express or implied, regarding the product, including its  
+quality,performance, or fitness for a particular purpose. In no event shall the author 
+be liable for any direct, indirect, incidental, special, exemplary or consequential 
+damages (including, but not limited to, loss of use, data, or benefits) arising in
+any way from the use of this software, including if you are aware of the possibility 
+of this damage.
+
+You are allowed to distribute this ActiveX DLL and accompanying files, as long as no 
+fee is charged.
+
+J3Connector is based on the following components:
+
+SQLite (http://sqlite.org/)
+OpenSSL (https://www.openssl.org/)
+SQLCipher Community Edition(https://www.zetetic.net/sqlcipher/open-source/)
+SQLite3MultipleCiphers (https://github.com/utelle/SQLite3MultipleCiphers)
+
+https://www.sqlite.org/copyright.html
+https://www.zetetic.net/sqlcipher/license/
+https://www.openssl.org/source/license.html
+https://utelle.github.io/SQLite3MultipleCiphers/
+
+--------------------------------------------------------------------------------------
+J. Elihu
+E-mail: elihulgst.10@gmail.com

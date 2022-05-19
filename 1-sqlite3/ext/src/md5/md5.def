@@ -1,0 +1,2 @@
+EXPORTS
+    sqlite3_extension_init

@@ -1,0 +1,7 @@
+Para compilar la extenciones descargue Sqlite3 de https://www.sqlite.org/index.html e incluya aqui
+	
+	- Sqlite3.c
+	- Sqlite3.h
+	- sqlite3ext.h
+
+ https://www.sqlite.org/loadext.html

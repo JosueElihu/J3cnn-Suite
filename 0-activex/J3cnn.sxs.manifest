@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+	<assemblyIdentity type="win32" name="bin" version="1.0.0.0"/>
+	<file name="J3cnn.dll">
+		<comClass description="J3cnn.Constructor" 			clsid="{053053F5-77B2-4359-9B4A-1F5A3FD77BC2}"/>
+		<comClass description="J3cnn.Helper" 						clsid="{26BD020A-5854-4D2A-9A30-1509CA93F3CC}" threadingModel="Apartment"/>
+		<comClass description="J3cnn.SQLiteConnection" 	clsid="{A344C800-A650-4C56-9935-4695C4719544}" threadingModel="Apartment"/>
+		<comClass description="J3cnn.SQLiteQuery" 			clsid="{45D922F5-3A50-4FE3-A67D-FAAEB302F4D8}"/>
+		<comClass description="J3cnn.SQLiteResultSet" 	clsid="{FC2773D1-F3A9-4004-939E-36A16AE505F0}"/>
+		<comClass description="J3cnn.SQLiteCommand" 		clsid="{DE8ED58E-B3A1-46BE-A380-9F87829237F4}"/>
+	</file>
+	<file name="J3cnn_c.dll">
+		<comClass description="J3cnn_c.Constructor" 			clsid="{16FBE36F-D6EA-4E77-9282-6782C91DD8D8}"/>
+		<comClass description="J3cnn_c.Helper" 						clsid="{7D02FA9F-258D-40BD-8FA6-9B87FA135073}" threadingModel="Apartment"/>
+		<comClass description="J3cnn_c.SQLiteConnection" 	clsid="{2A8221B2-4138-4DF2-8361-6424B9C308E7}" threadingModel="Apartment"/>
+		<comClass description="J3cnn_c.SQLiteQuery" 			clsid="{F0EF1D0A-F9FE-4481-A2A7-E992EE2A2DD3}"/>
+		<comClass description="J3cnn_c.SQLiteResultSet" 	clsid="{3E1FE5E1-8ECD-4C8A-9386-B2913B4ED65B}"/>
+		<comClass description="J3cnn_c.SQLiteCommand" 		clsid="{9CC1CDD8-3484-42CA-8D18-92F17EB024E3}"/>
+	</file>
+	<file name="J3cnn_mc.dll">
+		<comClass description="J3cnn_mc.Constructor"				clsid="{59A09076-E3BF-456F-B222-659E559DA864}"/>
+		<comClass description="J3cnn_mc.Helper" 						clsid="{BF1C446C-0CC5-416C-9F00-6538AA0E400E}" threadingModel="Apartment"/>
+		<comClass description="J3cnn_mc.SQLiteConnection" 	clsid="{66FC3C81-5C4A-4EE6-9059-8840B13E6D39}" threadingModel="Apartment"/>
+		<comClass description="J3cnn_mc.SQLiteQuery" 				clsid="{39018B1E-633F-4F90-92CA-71B29A523074}"/>
+		<comClass description="J3cnn_mc.SQLiteResultSet" 		clsid="{AA5B79E8-BDC1-42F7-B556-88F739DDF3AE}"/>
+		<comClass description="J3cnn_mc.SQLiteCommand" 			clsid="{E23B6A1C-324B-4B9E-A574-B2FA004BD8DA}"/>
+	</file>
+</assembly>
