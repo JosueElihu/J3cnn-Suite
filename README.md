@@ -9,3 +9,4 @@ Para usar cualquiera de estos componentes sin registrarlos en el sistema, añada
 También puede cargar cualquiera de los tres componentes desde una ruta personalizada con la API LoadLibrary() y el módulo se encargará de crear los objetos necesarios. En el módulo J3cnnLoader.bas existe la función LoadLib() que es un envoltorio que permite cargar librerías desde rutas personalizadas.
 
 
+Puede descargar las versiones mas recientes de SQLite3, SQLCipher y SQLite3MultipleCiphers y usarlo con estos componentes.
